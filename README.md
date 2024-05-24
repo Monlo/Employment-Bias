@@ -205,7 +205,6 @@ This attempt demonstrates the potential of machine learning models to analyze di
 ## References
 
 - Amnesty International. (2023). Czech Republic. [Amnesty International](https://www.amnesty.org/en/location/europe-and-central-asia/western-central-and-south-eastern-europe/czech-republic/report-czech-republic/).
-- Breiman, L. (2001). Random forests. *Machine Learning, 45*, 5-32. [Springer](https://link.springer.com/content/pdf/10.1023/a:1010933404324.pdf).
 - Chen, T., & Guestrin, C. (2016, August). Xgboost: A scalable tree boosting system. In *Proceedings of the 22nd international conference on knowledge discovery and data mining* (pp. 785-794). [ACM](https://dl.acm.org/doi/pdf/10.1145/2939672.2939785).
 - European Commission. (2023). Integration of migrants: EU action. [European Commission](https://ec.europa.eu/migrant-integration/the-eu-and-integration/framework_en).
 - European Commission. (2024). Labor shortage in Europe. [European Commission](https://europa.eu/european-union/topics/migration_en).
